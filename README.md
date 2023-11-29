@@ -6,4 +6,5 @@
 #### inspiration [link](https://youtu.be/h5I8LB4N5UA?si=z6S-6zdQee1H362N)
 
 ## 29 nov 
-#### Done screen section page about 1h10'
+#### Done screen section page about , in just 1h10'    
+#####       i learned use mask alone
