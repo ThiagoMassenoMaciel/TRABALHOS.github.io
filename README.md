@@ -8,3 +8,7 @@
 ## 29 nov 
 #### Done screen section page about , in just 1h10'    
 #####       i learned use mask alone
+
+## 29 nov
+#### Done screen section page about , in just 1h20'
+#####      i learned  to makw shadows under the header (+effects dropshadow)
