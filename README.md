@@ -24,4 +24,5 @@
 ## 2 dez 
 #####      Link for thoses pages after click       , in just 2h
 #####      i couldn't made the animation about circle to move( kinda of rights) 30'
-#####      wrong , i decide to make tutorial with   18'  i waste ?
+#####      wrong , i decide to make tutorial with   18'  i waste ?  
+#####                                                10'3"   WASTE 50'
