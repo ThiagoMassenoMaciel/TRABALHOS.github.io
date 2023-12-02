@@ -12,3 +12,16 @@
 ## 30 nov
 #### Done screen section page about , in just 1h20'
 #####      i learned  to makw shadows under the header (+effects dropshadow)
+
+## 1 dez
+#### Done Screen section page service portifolio contact , in just 4 horas 
+#####      i learn carrossel efect 
+#####      when i did some tutorial that doesn't works , must to see other 
+#####      if i dont remember , i will waste less time seing the tutorial again than try to remember .
+#####      i didn' make the documentation about all the things i need to learn for to make a previous time to the client for Meet .
+#####      Time management so bad . Most of the time i acros the limet of time
+
+## 2 dez 
+#####      Link for thoses pages after click       , in just 2h
+#####      i couldn't made the animation about circle to move( kinda of rights) 30'
+#####      wrong , i decide to make tutorial with   18'  i waste ?
