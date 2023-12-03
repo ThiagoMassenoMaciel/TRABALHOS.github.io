@@ -17,47 +17,8 @@
 #### Done Screen section page service portifolio contact , in just 4 horas 
 #####      i learn carrossel efect 
 #####      when i did some tutorial that doesn't works , must to see
-
-## 2 dez
-#### Done conections by the hole page , in just 4 horas 
-##### try to make the animation the circle moves
-##### when i did some tutorial that doesn't works , must to see the tutorial to waste less time then just to try remember
-##### i start the journy for learn from tutorial in english from this [video]()   10' i took 50'   
-	
-
-
-    
-
-
-	
-
-			
-
-				
-				
-			
-
-	
-
 	 other 
-#####      if i dont remember , i will waste less time seing the tutorial again than try
-	
-
-
-    
-
-
-	
-
-			
-
-				
-				
-			
-
-	
-
-	 to remember .
+#####      if i dont remember , i will waste less time seing the tutorial again than try to remember .
 #####      i didn' make the documentation about all the things i need to learn for to make a previous time to the client for Meet .
 #####      Time management so bad . Most of the time i acros the limet of time
 
