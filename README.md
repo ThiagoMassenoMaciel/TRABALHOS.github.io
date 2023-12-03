@@ -27,3 +27,6 @@
 #####      i couldn't made the animation about circle to move( kinda of rights) 30'
 #####      wrong , i decide to make tutorial with   18'  i waste ?  
 #####                                                10'3"   WASTE 50' [link](https://youtu.be/7Sf5AaXvJeE?si=ljFjjPz7dzzG2Nfq)
+
+## 3 dez
+#####      I learn to not be anymore bit around the bush
