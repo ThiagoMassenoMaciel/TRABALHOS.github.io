@@ -33,3 +33,8 @@
 #####	   I dont made :
 ######     -documentation about what i change by choose from the client
 ######     -i dont made the script about the deploy
+##	I must change 
+###	the color for blue
+###	the text
+###	the image about the areas from lawyer
+
