@@ -29,4 +29,7 @@
 #####                                                10'3"   WASTE 50' [link](https://youtu.be/7Sf5AaXvJeE?si=ljFjjPz7dzzG2Nfq)
 
 ## 3 dez
-#####      I learn to not be anymore bit around the bush
+#####      I dont stop bit around the bush
+#####	   I dont made :
+######     -documentation about what i change by choose from the client
+######     -i dont made the script about the deploy
