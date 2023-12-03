@@ -20,9 +20,9 @@
 
 ## 2 dez
 #### Done conections by the hole page , in just 4 horas 
-#####      try to make the animation the circle moves
-#####      when i did some tutorial that doesn't works , must to see the tutorial to waste less time then just to try remember
-#####      i start the journy for learn from tutorial in english from this [video]()   10' i took 50'   
+##### try to make the animation the circle moves
+##### when i did some tutorial that doesn't works , must to see the tutorial to waste less time then just to try remember
+##### i start the journy for learn from tutorial in english from this [video]()   10' i took 50'   
 	
 
 
